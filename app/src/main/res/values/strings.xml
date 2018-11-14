@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">AP Pubblik</string>
+    <string name="title_activity_nyoba">nyoba</string>
+    <string name="large_text">
+        "PROSEDUR MENGGUNAKAN KARTU BPJS TINGKAT 1\n\n"
+
+        "Biaya Berobat menggunakan layanan BPJS akan ditangung sepenuhnya oleh BPJS jika prosedur berobat"
+        "yang anda lakukan sesuai dengan ketentuan yang berlaku, ingat untuk pasien rawat jalan ketika ingin"
+        "berobat menggunakan layanan BPJS harus dimulai dari faskes tingkat 1, sesuai dengan yang tertera pada kartu BPJS anda".
+
+        "Ketika anda ingin berobat menggunakan layanan BPJS maka langkah-langkahnya adalah sebagai berikut \n\n":
+1.	 Jangan lupa bawa KTP dan kartu BPJS anda.
+
+3.	Datang ke faskes tingkat 1 sesuai dengan nama faskes tk1 yang tertera di kartu BPJS anda, silahkan lihat kembali kartu BPJS anda, disana ada label Faskes tk1, biasanya isinya nama puskesmas, poliklinik, praktek dokter pribadi, praktek dokter gigi atau nama rumah sakit tipe d yang sudah bekerja sama dengan BPJS, fasilitas kesehatan itulah yang harus anda datangi pertama kali.
+
+4.	Masuk ke ruang layanan khusus BPJS, saat ini fasilitas kesehatan yang sudah bekerjasama dengan BPJS menyediakan ruangan khsusus untuk pasien BPJS, ada juga yang belum tapi rata-rata sudah menyediakan ruangan khusus. Silahkan anda masuk ke ruangkan khusus pelayanan BPJS, dan antrilah sampai anda mendapatkan giliran pemeriksaan.
+
+
+
+5.	Ketika giliran anda, biasanya petugas faskes akan meminta kartu BPJS anda dan juga KTP anda, silahkan serahkan kartu bpjs dan KTP untuk dilakukan validasi data, perawat akan memeriksa tekanan darah dan juga berat badan anda.
+6.	Tunggu sampai giliran anda diperiksa dokter di fasilitas keseahatan tingkat pertama.
+
+7.	Ketika giliran anda dipanggil, dokter akan memeriksa kondisi anda, jika kondisi anda tidak memungkinkan untuk ditangani di fasilitas kesehatan tingkat pertama, maka dokter akan memberikan surat rujukan untuk ke faskes tingkat II (RSUD), namun jika kondisi anda masih bisa ditangani di fakses tingkat 1, maka dokter akan memberikan resep.
+
+
+8.	Menuju apotek di faskes tk1 untuk tebus resep, petugas aptek akan menyiapkan resep untuk anda. setelah resep diterima anda bisa langsung pulang tanpa dipungut biaya sepeserpun.
+
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bpjs">BPJS</string>
+
+    <string name="pesan_bpjs_notification_title_template">Pesan bpjs: %1$s</string>
+
+    <!-- TODO: remove this placeholder text -->
+    <string name="pesan_bpjs_notification_placeholder_text_template">You said %1$s and lorem ipsum
+        dolor sit amet, consectetur adipiscing elit. Etiam non enim magna. Morbi dictum, velit vel
+        semper venenatis, magna odio volutpat velit, at ullamcorper nulla lacus sed turpis.
+        Pellentesque vitae metus elit, nec tincidunt tellus. Integer sed nisl sem, ullamcorper
+        ornare lacus. Duis ac mauris sed massa congue volutpat. Donec sed erat sit amet turpis
+        viverra rhoncus sit amet nec magna. Donec lacinia ligula at libero volutpat volutpat nec nec
+        tortor.
+    </string>
+
+    <string name="action_share">Share</string>
+    <string name="action_reply">Reply</string>
+    <string name="title_activity_rsudmap">Map</string>
+</resources>
